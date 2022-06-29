@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning AWS and React.JS
 - 💞️ I’m looking to collaborate on web developement and deep learning models.
-- 📫 Reach me on Twitter @status_code_200 and linkedin @puransingh888 
+- 📫 Reach me on Twitter @puransinghshek and linkedin @puransinghshekhawat
 
 <!---
 puransingh888/puransingh888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
