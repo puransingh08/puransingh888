@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @puransingh888
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning AWS and React.JS
-- 💞️ I’m looking to collaborate on web developement and deep learning models.
+- 🌱 I’m currently learning DevOps and Machine Learning.
 - 📫 Reach me on Twitter @puransinghshek and linkedin @puransinghshekhawat
 
 <!---
