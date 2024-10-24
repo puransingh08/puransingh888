@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @puransingh888
+- 👋 Hi, I’m @puransingh08
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning DevOps and Machine Learning.
 - 📫 Reach me on Twitter @puransinghshek and linkedin @puransinghshekhawat
